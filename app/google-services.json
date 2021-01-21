@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645662556216",
+    "project_id": "recognize-it-fccdf",
+    "storage_bucket": "recognize-it-fccdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645662556216:android:17af121ebdfb6c715026cd",
+        "android_client_info": {
+          "package_name": "com.example.chareco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645662556216-2u4kpu74qjf8jfmhlgmkdnhp5n217536.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMlQ_2MM25b3tyo_AobPEbDTjWFOcQEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645662556216-2u4kpu74qjf8jfmhlgmkdnhp5n217536.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
